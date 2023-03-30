@@ -1,0 +1,1 @@
+docker run --rm -d --network mynet calc
